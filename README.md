@@ -1,3 +1,3 @@
-# MyProject
+# Xvolution
 
-Developed with Unreal Engine 4
+Independent ARPG game developed with Unreal Engine 4
